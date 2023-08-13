@@ -1,0 +1,21 @@
+{
+  "name": "ext-version-check",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "description": "A Vercel Serverless Function. Use to help Hacknet Extension player check the Extension Version by the OnlineWebServer daemon.",
+  "devDependencies": {
+    "vercel": "^31.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Modern-School/EXT-Version-Check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Modern-School/EXT-Version-Check/issues"
+  },
+  "homepage": "https://github.com/Modern-School/EXT-Version-Check#readme"
+}
